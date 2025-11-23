@@ -51,5 +51,24 @@ It includes **KPIs, customer segmentation, cohort analysis, risk scoring, profit
 
 ---
 
-## Folder Structure
+---
+
+## Future Work
+- Complete **Power BI dashboard** with all planned KPIs and visuals.
+- Add dynamic slicers for segments, cohorts, and city-level analysis.
+- Publish dashboard on **Power BI Service**.
+
+---
+
+## Tools & Technologies
+- **Database:** MySQL 8.0  
+- **Querying:** SQL  
+- **Visualization:** Power BI Desktop  
+- **Data Formats:** CSV  
+
+---
+
+## Author
+- Name: Pankaj Hanumant Chavan
+- Email: pankajhchavan8076@gmail.com
 
