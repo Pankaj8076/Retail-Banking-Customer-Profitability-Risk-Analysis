@@ -1,0 +1,11 @@
+customer_id,balance,total_loans,total_missed_emis,total_transactions,risk_segment
+101,32.00,2400000.00,0,2,"High Risk"
+102,54.00,800000.00,2,2,"High Risk"
+103,88.00,1300000.00,0,2,"High Risk"
+104,12.00,300000.00,4,2,"High Risk"
+105,10.00,NULL,NULL,1,"High Risk"
+106,61.00,1800000.00,0,1,"High Risk"
+107,105.00,4400000.00,6,2,"High Risk"
+108,8.00,NULL,NULL,1,"High Risk"
+109,52.00,700000.00,0,2,"High Risk"
+110,140.00,5000000.00,2,2,"High Risk"

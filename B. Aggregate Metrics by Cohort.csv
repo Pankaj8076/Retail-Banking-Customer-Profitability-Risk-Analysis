@@ -1,0 +1,5 @@
+first_txn_month,num_customers,total_transaction_amount,avg_transaction_amount,total_transactions
+2024-10,1,2000.00,2000.000000,1
+2024-11,1,13000.00,6500.000000,2
+2025-01,7,835000.00,64230.769231,13
+2025-02,1,50000.00,50000.000000,1

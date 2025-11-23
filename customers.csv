@@ -1,0 +1,11 @@
+customer_id,age,gender,city,occupation,income
+101,28,M,Mumbai,Salaried,65000
+102,34,F,Pune,Self-Employed,120000
+103,41,M,Bangalore,Salaried,90000
+104,29,F,Delhi,Salaried,55000
+105,53,M,Chennai,Retired,40000
+106,38,F,Hyderabad,Salaried,85000
+107,45,M,Pune,Business,150000
+108,26,F,Mumbai,Salaried,48000
+109,31,M,Delhi,Salaried,70000
+110,50,F,Bangalore,Business,200000

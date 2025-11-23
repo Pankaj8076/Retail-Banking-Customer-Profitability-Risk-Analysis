@@ -1,0 +1,9 @@
+customer_id,total_loans,loan_segment
+101,1200000.00,"Large Loan"
+102,400000.00,"Medium Loan"
+103,650000.00,"Large Loan"
+104,150000.00,"Medium Loan"
+106,1800000.00,"Large Loan"
+107,2200000.00,"Large Loan"
+109,350000.00,"Medium Loan"
+110,2500000.00,"Large Loan"

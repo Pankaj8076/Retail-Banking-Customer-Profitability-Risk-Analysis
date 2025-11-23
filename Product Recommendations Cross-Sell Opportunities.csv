@@ -1,0 +1,11 @@
+customer_id,balance,current_loans,cross_sell_flag
+101,32.00,1,"Low Cross-Sell Potential"
+102,54.00,1,"Low Cross-Sell Potential"
+103,88.00,1,"Low Cross-Sell Potential"
+104,12.00,1,"Low Cross-Sell Potential"
+105,10.00,0,"Low Cross-Sell Potential"
+106,61.00,1,"Low Cross-Sell Potential"
+107,105.00,1,"Low Cross-Sell Potential"
+108,8.00,0,"Low Cross-Sell Potential"
+109,52.00,1,"Low Cross-Sell Potential"
+110,140.00,1,"Low Cross-Sell Potential"

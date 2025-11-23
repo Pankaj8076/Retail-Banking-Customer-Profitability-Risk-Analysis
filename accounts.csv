@@ -1,0 +1,11 @@
+account_id,customer_id,account_type,balance,avg_monthly_txn,active_status
+201,101,Savings,85000,32,active
+202,102,Savings,150000,54,active
+203,103,Current,250000,88,active
+204,104,Savings,32000,12,inactive
+205,105,Savings,45000,10,active
+206,106,Current,190000,61,active
+207,107,Savings,300000,105,active
+208,108,Savings,25000,8,inactive
+209,109,Current,210000,52,active
+210,110,Savings,500000,140,active

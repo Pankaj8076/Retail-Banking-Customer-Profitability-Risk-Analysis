@@ -1,0 +1,11 @@
+customer_id,total_transactions,total_amount,activity_segment
+101,2,57000.00,Inactive
+102,2,125000.00,Inactive
+103,2,115000.00,Inactive
+104,2,13000.00,Inactive
+105,1,30000.00,Inactive
+106,1,50000.00,Inactive
+107,2,185000.00,Inactive
+108,1,2000.00,Inactive
+109,2,103000.00,Inactive
+110,2,220000.00,Inactive

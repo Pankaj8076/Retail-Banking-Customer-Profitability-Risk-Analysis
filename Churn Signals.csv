@@ -1,0 +1,11 @@
+customer_id,balance,avg_monthly_txn,total_transactions,churn_signal
+101,32.00,0,2,"High Churn Risk"
+102,54.00,0,2,"High Churn Risk"
+103,88.00,0,2,"High Churn Risk"
+104,12.00,0,2,"High Churn Risk"
+105,10.00,0,1,"High Churn Risk"
+106,61.00,0,1,"High Churn Risk"
+107,105.00,0,2,"High Churn Risk"
+108,8.00,0,1,"High Churn Risk"
+109,52.00,0,2,"High Churn Risk"
+110,140.00,0,2,"High Churn Risk"
